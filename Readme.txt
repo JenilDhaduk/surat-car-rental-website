@@ -20,4 +20,4 @@ Password: Test@123
 Open Your browser put inside browser “http://localhost/carrental/admin”
 Login Details for admin :
 Username: admin
-Password: Test@12345
+Password: admin
