@@ -179,7 +179,7 @@ $query=$query6->rowCount();
 											<a href="manage-conactusquery.php" class="block-anchor panel-footer text-center">Full Detail &nbsp; <i class="fa fa-arrow-right"></i></a>
 										</div>
 									</div>
-									<div class="col-md-3">
+									<!-- <div class="col-md-3">
 										<div class="panel panel-default">
 											<div class="panel-body bk-info text-light">
 												<div class="stat-panel text-center">
@@ -203,7 +203,7 @@ $testimonials=$query5->rowCount();
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> -->
 
 
 
