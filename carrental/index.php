@@ -108,49 +108,6 @@ foreach($results as $result)
 </section>
 <!-- /Resent Cat --> 
 
-<!-- Fun Facts-->
-<!-- <section class="fun-facts-section">
-  <div class="container div_zindex">
-    <div class="row">
-      <div class="col-lg-3 col-xs-6 col-sm-3">
-        <div class="fun-facts-m">
-          <div class="cell">
-            <h2><i class="fa fa-calendar" aria-hidden="true"></i>40+</h2>
-            <p>Years In Business</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-3 col-xs-6 col-sm-3">
-        <div class="fun-facts-m">
-          <div class="cell">
-            <h2><i class="fa fa-car" aria-hidden="true"></i>1200+</h2>
-            <p>New Cars For Sale</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-3 col-xs-6 col-sm-3">
-        <div class="fun-facts-m">
-          <div class="cell">
-            <h2><i class="fa fa-car" aria-hidden="true"></i>1000+</h2>
-            <p>Used Cars For Sale</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-3 col-xs-6 col-sm-3">
-        <div class="fun-facts-m">
-          <div class="cell">
-            <h2><i class="fa fa-user-circle-o" aria-hidden="true"></i>600+</h2>
-            <p>Satisfied Customers</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  <div class="dark-overlay"></div>
-</section> -->
-<!-- /Fun Facts--> 
-
 
 <!--Testimonial -->
 <section class="section-padding testimonial-section parallex-bg">
@@ -221,8 +178,7 @@ foreach($results as $result)
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/bootstrap.min.js"></script> 
 <script src="assets/js/interface.js"></script> 
-<!--Switcher-->
-<script src="assets/switcher/js/switcher.js"></script>
+
 <!--bootstrap-slider-JS--> 
 <script src="assets/js/bootstrap-slider.min.js"></script> 
 <!--Slider-JS--> 
@@ -231,5 +187,5 @@ foreach($results as $result)
 
 </body>
 
-<!-- Mirrored from themes.webmasterdriver.net/carforyou/demo/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 16 Jun 2017 07:22:11 GMT -->
+
 </html>
